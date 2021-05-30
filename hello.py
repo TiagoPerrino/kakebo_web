@@ -10,6 +10,3 @@ def index():
 def bye():
     return 'Hasta luego!'
 
-@app.route ('/bebi')
-def bebi():
-    return 'Hola bebieta tan boñeta, te amo muuuuuuuusho'
